@@ -1,0 +1,1 @@
+print "mystring says hello!"
